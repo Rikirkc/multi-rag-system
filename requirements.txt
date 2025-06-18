@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain_community
+langchain_chroma
+langchain-google-genai
+langchain_ollama
+flashrank
+google-generativeai
+chromadb
+tiktoken
+pypdf

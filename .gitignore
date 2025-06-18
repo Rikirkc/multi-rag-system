@@ -1,0 +1,15 @@
+*.env
+*.pdf
+*.json
+automation.py
+extra_test.py
+main.py
+*.pptx
+*.cfg
+share/
+*.doc
+DB/
+etc/
+bin/
+include/
+lib/

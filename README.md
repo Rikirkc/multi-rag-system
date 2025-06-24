@@ -1,2 +1,11 @@
 RUN THE COMMAND "pip install -r requirements.txt" IN YOUR TERMINAL.
 THEN RUN THE COMMAND "streamlit run app.py"
+
+
+
+
+MAKE SURE TO HAVE OLLAMA INSTALLED IN YOUR SYSTEM WITH THE MODEL "llama3.2:1b".
+
+IF NOT THEN AFTER INSTALLING RUN THE COMMAND --> "ollama pull llama3.2:1b"
+
+
